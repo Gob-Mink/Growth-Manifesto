@@ -1,2 +1,2 @@
-# Growth-Manifesto-
+# Growth-Manifesto
 Growth Product Manager Ideation
